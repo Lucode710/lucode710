@@ -21,4 +21,6 @@ Here are some ideas to get you started:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-4D588E?logo=php&logoColor=white" />
+  <img alt="laravel" src="https://img.shields.io/badge/Laravel-E34F26?logo=laravel&logoColor=white" />
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-efd81d?logo=javascript&logoColor=black" />
 </p>
