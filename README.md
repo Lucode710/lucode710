@@ -1,26 +1,43 @@
-### Hi there 👋
+# Hello, I'm [your name] 👋
 
-<!--
-**Lucode710/lucode710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer, mainly focused on backend development. I love creating solutions that are efficient and functional, using the best tools and technologies for each project.
 
-Here are some ideas to get you started:
+## 🛠️ My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img alt="php" src="https://img.shields.io/badge/-PHP-4D588E?logo=php&logoColor=white" />
-  <img alt="laravel" src="https://img.shields.io/badge/Laravel-E34F26?logo=laravel&logoColor=white" />
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-efd81d?logo=javascript&logoColor=black" />
-</p>
+- Java
+- PHP
+- Python
+- JavaScript
+- TypeScript
+
+### Frameworks
+
+- Laravel
+- Django
+- Spring
+- React
+- Angular
+
+## 📚 My projects
+
+Here are some of the projects I've worked on or contributed to. You can find more on my [GitHub profile].
+
+- [Project 1]: A brief description of what the project does and what technologies it uses.
+- [Project 2]: Another brief description of a different project.
+- [Project 3]: And another one.
+
+## 📫 How to reach me
+
+You can contact me via email at [your email] or follow me on [Twitter], [LinkedIn], or [any other social media] you use.
+
+## 🏅 Badges
+
+I like to use [Shields.io] badges to display some metrics and information about my projects and skills. Here are some examples:
+
+![GitHub followers]
+![Twitter followers]
+![Laravel]
+![Django]
+![Spring]
