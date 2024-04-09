@@ -25,8 +25,8 @@ I'm a web developer, mainly focused on backend development. I love creating solu
 Here are some of the projects I've worked on:
 
 - [React with Laravel API](https://github.com/Lucode710/react-api-laravel/tree/main): This project demonstrates how to create a secure authentication system using React for the front end, Laravel for the back end, and the Sanctum package for handling user authentication.
-- [Project 2]: Another brief description of a different project.
-- [Project 3]: And another one.
+- [NodeJS to test Jenkins pipeline](https://github.com/Lucode710/simple-node-js-react-npm-app): This repository is for the Build a Node.js and React app with npm tutorial in the Jenkins User Documentation.
+- [Microservices with NestJS and Kafka](https://github.com/Lucode710/nestJs-kafka): This project demonstrates how to integrate Apache Kafka, a powerful distributed streaming platform, with NestJS, a progressive Node.js framework.
 
 ## 📫 How to reach me
 
