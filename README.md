@@ -30,5 +30,5 @@ Here are some of the projects I've worked on:
 
 ## 📫 How to reach me
 
-You can contact me via email at [Email](Luca.Venturi.710@gmail.com) or follow me on [Twitter], [LinkedIn], or [any other social media] you use.
+You can contact me via email at [Email](mailto:Luca.Venturi.710@gmail.com) or follow me on [LinkedIn](https://www.linkedin.com/in/luca-venturi-58093460/).
 
