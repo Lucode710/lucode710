@@ -22,13 +22,13 @@ I'm a web developer, mainly focused on backend development. I love creating solu
 
 ## 📚 My projects
 
-Here are some of the projects I've worked on or contributed to. You can find more on my [GitHub profile].
+Here are some of the projects I've worked on:
 
-- [Project 1]: A brief description of what the project does and what technologies it uses.
+- [React with Laravel API](https://github.com/Lucode710/react-api-laravel/tree/main): This project demonstrates how to create a secure authentication system using React for the front end, Laravel for the back end, and the Sanctum package for handling user authentication.
 - [Project 2]: Another brief description of a different project.
 - [Project 3]: And another one.
 
 ## 📫 How to reach me
 
-You can contact me via email at [your email] or follow me on [Twitter], [LinkedIn], or [any other social media] you use.
+You can contact me via email at [Email](Luca.Venturi.710@gmail.com) or follow me on [Twitter], [LinkedIn], or [any other social media] you use.
 
