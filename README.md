@@ -15,7 +15,6 @@ I'm a web developer, mainly focused on backend development. I love creating solu
 ### Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-E34F26?logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
